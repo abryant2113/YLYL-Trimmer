@@ -1,0 +1,24 @@
+{
+  "name": "ylyl-trimmer",
+  "version": "1.0.0",
+  "description": "The boys make a Youtube clip trimming/uploading app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abryant2113/YLYL-Trimmer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abryant2113/YLYL-Trimmer/issues"
+  },
+  "homepage": "https://github.com/abryant2113/YLYL-Trimmer#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
